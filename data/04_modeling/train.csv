@@ -1,0 +1,6 @@
+customer_id,age,gender,region,total_spent,churn
+101,34,M,South,3500,0
+102,28,F,North,100,1
+103,40,M,East,150,1
+104,23,F,West,1200,0
+105,37,M,South,600,0
