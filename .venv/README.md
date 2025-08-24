@@ -21,10 +21,4 @@ projetos_python/
 │   ├── requirements.txt
 │   ├── setup_novo.bat
 │   ├── setup_novo.sh
-```
 
-## Como usar os scripts de ambiente
-- No Windows, execute o arquivo `.bat` correspondente dentro de cada pasta.
-- No Linux/Mac, execute o arquivo `.sh` correspondente.
-
-Isso criará o ambiente virtual e instalará as dependências automaticamente.
