@@ -1,4 +1,4 @@
-# Linux/Mac - Criar ambiente legado
+# Criar ambiente legado
 cd projeto_legado
 python -m venv venv_legado
 source venv_legado/bin/activate
